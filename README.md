@@ -11,7 +11,7 @@ git clone https://github.com/tarcylakauane/cypress_projeto.git
 # 2- Acessar a pasta
 
 ```
-cd cypress_projeto`
+cd cypress`
 ```
 
 # 5- Instale as dependencias do projeto
